@@ -1,0 +1,27 @@
+﻿# Alert Name
+<exact alert name>
+
+# Description
+<1 sentence description>
+
+# Stakeholder impact
+<1 sentence impact>
+
+# Mitigation steps
+1. Try restarting: <command>
+2. Monitor dashboards.
+3. Inspect logs to diagnose issue: <link or See steps below>
+If things do not recover, follow Escalation steps.
+
+# Escalation steps
+Contact <team>. Massive ingestion delays should be communicated to <upstream and downstream teams>.
+
+# Related services
+<upstream and downstream dependencies>
+
+# Dashboards
+<links>
+
+# Related links
+[link](http://example.com "Link 1")
+[link](http://example.com "Link 2")
